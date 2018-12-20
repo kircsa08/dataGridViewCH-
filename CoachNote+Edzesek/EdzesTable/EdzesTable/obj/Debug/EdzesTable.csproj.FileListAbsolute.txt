@@ -1,0 +1,13 @@
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\bin\Debug\EdzesTable.exe.config
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\bin\Debug\EdzesTable.exe
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\bin\Debug\EdzesTable.pdb
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\bin\Debug\MySql.Data.dll
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\bin\Debug\MySql.Data.xml
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.csprojAssemblyReference.cache
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.Form1.resources
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.Properties.Resources.resources
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.csproj.GenerateResource.cache
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.csproj.CoreCompileInputs.cache
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.csproj.CopyComplete
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.exe
+C:\Users\sz7kircsa\Source\Repos\CoachNote+Edzesek\EdzesTable\EdzesTable\obj\Debug\EdzesTable.pdb
